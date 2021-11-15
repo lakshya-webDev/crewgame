@@ -1,10 +1,10 @@
 import React from "react";
-import logo from "./logo2.svg";
-import claw from "./claw.svg";
-import icon2 from "./icon2.svg";
-import "./index.css";
+import logo from "../images/logo2.svg";
+import claw from "../images/claw.svg";
+import icon2 from "../images/icon2.svg";
 
-function Navbar() {
+
+const  Navbar =() =>{
   return (
     <div>
       <nav class="navbar navbar-light ">
